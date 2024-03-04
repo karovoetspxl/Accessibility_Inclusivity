@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #fafaf2;
+}
+
+.umbrella{
+    border: 5px #ff0000 solid;
+    border-radius: 7px;
+}
+
+.heart{
+    border: 5px #0000ff solid;
+    border-radius: 7px;
+}
+
+.moon{
+    border: 5px #ffc0cb solid;
+    border-radius: 7px;
+}
+
+.plane{
+    border: 5px #ffff00 solid;
+    border-radius: 7px;
+}
+
+.star{
+    border: 5px #800080 solid;
+    border-radius: 7px;
+}
+
+.cloud{
+    border: 5px #00ff00 solid;
+    border-radius: 7px;
+}
+
+.thunder{
+    border: 5px #40e0d0 solid;
+    border-radius: 7px;
+}
+
+.house{
+    border: 5px #ffa500 solid;
+    border-radius: 7px;
+}
+
+.music{
+    border: 5px #ff00ff solid;
+    border-radius: 7px;
+}
